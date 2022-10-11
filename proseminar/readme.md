@@ -57,6 +57,5 @@ code, try to avoid trivial comments such as `fopen(...); // open file`. The best
 source code comments are the ones you do NOT need to write. **All names and
 comments should be written in English**.
 
-Finally, all submitted code must be accompanied by a GNU Makefile. That is, your
-solution must be able to be compiled with a single call to `make`. You can find
-an example Makefile and more information [here](example_makefile).
+Finally, all submitted code must be easily compileable, e.g. by using `make`,
+`cmake`, or at the very least a sample command line somewhere.
