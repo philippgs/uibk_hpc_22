@@ -25,6 +25,7 @@ for that assignment have to be handed in via OLAT by 9:00 on Tuesday.
 | ---------- | ---------- | ----------------------------------------------------------- |
 | 2022-10-11 | -          | Administrative matters, introduction to LCC2                |
 | 2022-10-18 | [1](01)    | SLURM Job Submission, basic cluster setup and measurements  |
+| 2022-10-25 | [2](02)    | Basic parallelization with MPI                              |
 
 ## Handing in and Presenting Solutions
 
