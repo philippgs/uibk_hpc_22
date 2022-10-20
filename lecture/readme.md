@@ -18,3 +18,5 @@ It will be updated continuously throughout the semester.
 | No                                       | Date       | Topics                                              |
 | ---------------------------------------- | ---------- | --------------------------------------------------- |
 | [01](01_motivation_and_crash_course.pdf) | 2022-10-06 | Administrative matters, Motivation and Crash Course |
+| [02](02_mpi_basics.pdf)                  | 2022-10-13 | MPI - Message Passing Interface                     |
+| [03](03_measurements.pdf)                | 2022-10-20 | Measuring and Reporting Performance                 |
