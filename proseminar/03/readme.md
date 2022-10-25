@@ -1,4 +1,4 @@
-# Assignment 3 for November 25th 2022
+# Assignment 3 for November 8th 2022
 
 The goal of this assignment is to extend the heat stencil application and measure its performance.
 
