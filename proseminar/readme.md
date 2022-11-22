@@ -29,6 +29,7 @@ for that assignment have to be handed in via OLAT by 9:00 on Tuesday.
 | 2022-11-08 | [3](03)    | 2D/3D heat stencil: Virtual topologies, derived data types  |
 | 2022-11-15 | [4](04)    | Performance profiling and analysis                          |
 | 2022-11-22 | [5](05)    | Non-blocking communication                                  |
+| 2022-11-29 | [6](06)    | N-body                                                      |
 
 ## Handing in and Presenting Solutions
 
