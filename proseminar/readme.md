@@ -30,6 +30,7 @@ for that assignment have to be handed in via OLAT by 9:00 on Tuesday.
 | 2022-11-15 | [4](04)    | Performance profiling and analysis                          |
 | 2022-11-22 | [5](05)    | Non-blocking communication                                  |
 | 2022-11-29 | [6](06)    | N-body                                                      |
+| 2022-12-06 | [7](07)    | N-body: Parallelization & load imbalance                    |
 
 ## Handing in and Presenting Solutions
 
