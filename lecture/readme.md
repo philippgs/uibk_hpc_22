@@ -24,3 +24,4 @@ It will be updated continuously throughout the semester.
 | [05](05_dwarfs.pdf)                      | 2022-11-03 | The 13 Dwarfs of HPC                                |
 | [06](06_debugging.pdf)                   | 2022-11-10 | Debugging Parallel Programs                         |
 | [07](07_mpi_advanced_2.pdf)              | 2022-11-17 | Groups, Communicators and One-Sided Communication   |
+| [08](08_domain_decomposition.pdf)        | 2022-12-01 | Domain Decomposition and Load Balancing             |
