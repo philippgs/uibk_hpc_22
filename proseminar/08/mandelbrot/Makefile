@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS = -std=gnu11 -Wall -Wextra -lm -O3 -g3
+CFLAGS=-std=gnu11 -Wall -Wextra -lm -O3 -ffast-math -march=native -g3
 
 .PHONY: all
 all: mandelbrot_seq

@@ -17,6 +17,7 @@ This task will focus on the [Mandelbrot set](https://en.wikipedia.org/wiki/Mande
 
 - A sequential implementation is available in [mandelbrot_seq.c](mandelbrot/mandelbrot_seq.c). Read the code and make sure you understand what happens. Run it in order to see what the generated image should look like.
 - Parallelize the implementation using MPI and name it `mandelbrot_mpi.c`. Run it with varying numbers of ranks and problem sizes and verify its correctness by comparing the output to `mandelbrot_seq.c`.
+- Make sure you use the compiler optimization flags as specified in the Makefile.
 - Discuss the effects and implications of your parallelization
 - Insert the measured wall time for 64 cores and a problem size of 3840x2160 into the comparison spreadsheet: https://docs.google.com/spreadsheets/d/1E-9kRGMV8Py1Qp32wuVHs7dWSXIWigBHc3Ba1iTheFc/edit
 - How would you improve program performance?
@@ -29,3 +30,4 @@ This exercise consists in implementing load balancing for Exercise 1.
 
 - What are possible load balancing techniques that could be applied to Exercise 1? What are their advantages and disadvantages?
 - Implement at least one load balancing method and evaluate its performance compared to the naive version in Exercise 1. Discuss the effects.
+- Insert the improved wall time for 64 cores and a problem size of 3840x2160 into the comparison spreadsheet: https://docs.google.com/spreadsheets/d/1E-9kRGMV8Py1Qp32wuVHs7dWSXIWigBHc3Ba1iTheFc/edit
