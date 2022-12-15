@@ -25,3 +25,4 @@ It will be updated continuously throughout the semester.
 | [06](06_debugging.pdf)                   | 2022-11-10 | Debugging Parallel Programs                         |
 | [07](07_mpi_advanced_2.pdf)              | 2022-11-17 | Groups, Communicators and One-Sided Communication   |
 | [08](08_domain_decomposition.pdf)        | 2022-12-01 | Domain Decomposition and Load Balancing             |
+| [09](09_energy.pdf)                      | 2022-12-15 | Energy in HPC                                       |
