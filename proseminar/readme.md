@@ -33,6 +33,7 @@ for that assignment have to be handed in via OLAT by 9:00 on Tuesday.
 | 2022-12-06 | [7](07)    | N-body: Parallelization & load imbalance                    |
 | 2022-12-13 | [8](08)    | Mandelbrot: Parallelization & load imbalance                |
 | 2023-01-10 | [9](09)    | Energy & Power                                              |
+| 2023-01-17 | [10](10)   | Parallel I/O                                                |
 
 ## Handing in and Presenting Solutions
 
