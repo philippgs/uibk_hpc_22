@@ -37,4 +37,4 @@ This exercise consists in implementing a hybrid version of Exercise 1.
 
 - Provide a fifth implementation that makes rank 0 responsible for writing/reading all data to/from a single file, hence requiring `MPI_Gather()` and `MPI_Scatter()` operations. Again, you can choose to use non-MPI means for the I/O operations.
 - Compare the performance to your solution of Exercise 1. What can you observe?
-- Insert the achieved bandwidth for 100 MB per rank and 64 ranks into the comparison spreadsheet: https://docs.google.com/spreadsheets/d/1E-9kRGMV8Py1Qp32wuVHs7dWSXIWigBHc3Ba1iTheFc/edit
+- Insert the achieved bandwidth for 64 MB per rank and 64 ranks into the comparison spreadsheet: https://docs.google.com/spreadsheets/d/1E-9kRGMV8Py1Qp32wuVHs7dWSXIWigBHc3Ba1iTheFc/edit
