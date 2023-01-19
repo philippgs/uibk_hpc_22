@@ -26,3 +26,5 @@ It will be updated continuously throughout the semester.
 | [07](07_mpi_advanced_2.pdf)              | 2022-11-17 | Groups, Communicators and One-Sided Communication   |
 | [08](08_domain_decomposition.pdf)        | 2022-12-01 | Domain Decomposition and Load Balancing             |
 | [09](09_energy.pdf)                      | 2022-12-15 | Energy in HPC                                       |
+| [10](10_parallel_io.pdf)                 | 2023-01-12 | Parallel I/O                                        |
+| [11](11_programming_models.pdf)          | 2023-01-19 | Additional Programming Models                       |
