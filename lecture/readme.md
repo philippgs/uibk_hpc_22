@@ -28,3 +28,4 @@ It will be updated continuously throughout the semester.
 | [09](09_energy.pdf)                      | 2022-12-15 | Energy in HPC                                       |
 | [10](10_parallel_io.pdf)                 | 2023-01-12 | Parallel I/O                                        |
 | [11](11_programming_models.pdf)          | 2023-01-19 | Additional Programming Models                       |
+| [12](12_node-level_performance.pdf)      | 2023-01-26 | Nove-level performance                              |
